@@ -18,3 +18,22 @@ https://medium.com/@notabelardoriojas/pokemon-vs-sklearn-predicting-50-000-battl
 | KNN Classifier                  | 76.3%                |
 | XGBoost (tuned hyperparameters) | 98.5%                |
 
+Ash throws out Tyrunt! His opponent Red uses Machop!
+XGBoost predicts that Ash wins with 1.0 probability!
+Actual result: Ash wins
+
+Ash throws out Tangrowth! His opponent Red uses Lileep!
+XGBoost predicts that Ash wins with 1.0 probability!
+Actual result: Ash wins
+
+Ash throws out Golduck! His opponent Red uses Clefairy!
+XGBoost predicts that Ash wins with 1.0 probability!
+Actual result: Ash wins
+
+Ash throws out Salamence! His opponent Red uses Mareep!
+XGBoost predicts that Ash wins with 1.0 probability!
+Actual result: Ash wins
+
+Ash throws out Emolga! His opponent Red uses Pelipper!
+XGBoost predicts that Ash wins with 1.0 probability!
+Actual result: Ash wins
