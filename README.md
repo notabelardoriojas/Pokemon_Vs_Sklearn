@@ -1,6 +1,8 @@
 # Pokemon_Vs_Sklearn
 Using 8 different classifiers to predict outcomes of Pokemon battles.
 
+Ash used XGBoost!It's super effective!
+
 Follow along with the Medium article here!
 https://medium.com/@notabelardoriojas/pokemon-vs-sklearn-predicting-50-000-battles-with-8-different-classifiers-b21dc330138c
 
